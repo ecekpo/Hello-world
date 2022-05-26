@@ -1,15 +1,13 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Hello World Project
+# Hello Microverse Project
 
-> HTML Hello World Project
-
+> HTML Hello Microverse Project
 
 ## Built With
 
 - HTML 
 - CSS
-
 
 ## Getting Started
 
@@ -17,12 +15,11 @@
 
 ## Authors
 
-👤 **Author1**
+👤 Author1
 
 - GitHub: [@ecekpo](https://github.com/ecekpo)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
+- Twitter: [ @ememcookey](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/emem-ekpo-857135234/)
 
 
 ## 🤝 Contributing
