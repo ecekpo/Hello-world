@@ -1,0 +1,31 @@
+{
+  "name": "hello-world",
+  "version": "0.0.1",
+  "description": "Hello world project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecekpo/Hello-world.git"
+  },
+  "keywords": [
+    "hello",
+    "world",
+    "Emem"
+  ],
+  "author": "Emem Ekpo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ecekpo/Hello-world/issues"
+  },
+  "homepage": "https://github.com/ecekpo/Hello-world#readme",
+  "devDependencies": {
+    "hint": "^6.2.0",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  }
+}
